@@ -3,6 +3,7 @@ credit = int(input("Cual es tu cantidad de creditos:"))
 
 #La altura minima es de 155
 #Los creditos necesarios son 10
+#Aca el algoritmo
 
 if heigth >= 155 and credit >= 10:
     print("Disfruta tu viaje!!!!")
